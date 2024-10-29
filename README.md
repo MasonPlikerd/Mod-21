@@ -32,4 +32,3 @@ The deep learning model achieved [include final accuracy here] accuracy, which [
 
 Recommendation
 For further improvements, consider exploring alternative models. A Random Forest or Gradient Boosting classifier might handle categorical data more effectively without requiring extensive preprocessing and may capture feature interactions that the neural network struggled with. These tree-based methods are known for their robustness with tabular data, and could potentially yield higher accuracy and better interpretability for this problem.
-
